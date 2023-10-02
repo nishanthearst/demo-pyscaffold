@@ -25,3 +25,11 @@ A longer description of your project goes here...
 
 This project has been set up using PyScaffold 4.5. For details and usage
 information on PyScaffold see https://pyscaffold.org/.
+
+## Steps
+```
+pip3 install pre-commit
+pip3 install pyscaffold
+pip3 install pyscaffold-markdown
+putup <myProj> --markdown (creates a folder <myproj> as a repo)
+```
